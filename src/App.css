@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  color: #61dafb;
+  font-size: 2.5rem;
+}
+
+input, select, button {
+  font-size: 1rem;
+  margin-top: 6px;
+}
+
+label {
+  font-weight: bold;
+}
