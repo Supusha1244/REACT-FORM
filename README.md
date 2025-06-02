@@ -37,8 +37,8 @@ A simple and responsive registration form built with **React**, featuring:
 
 ## 🎥 Live Demo
 
-Watch the live demo on Loom:  
-[![Watch Video](loom_1080p.mp4)
+Watch the live demo:  
+[![Watch Video](DEMO.gif)
 
 ---
 
